@@ -1,0 +1,21 @@
+{
+  "name": "sysbot/tgscraper-cache",
+  "description": "Utility to extract scheme from Telegram Bot API webpage.",
+  "license": "LGPL-3.0-or-later",
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "TgScraper\\Cache\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "sys-001",
+      "email": "sys@sys001.ml",
+      "homepage": "https://sys001.ml",
+      "role": "Developer"
+    }
+  ]
+}
