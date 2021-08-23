@@ -10,7 +10,7 @@ class CacheLoader
     public static function getCachedVersion(string $version): string
     {
         $version = self::parseVersionNumber($version);
-        $filename = sprintf('../assets/%s.html', $version);
+        $filename = sprintf('%s/../assets/%s.html', __DIR__, $version);
         if (!file_exists($filename)) {
             throw new OutOfBoundsException('Specified version not found');
         }
