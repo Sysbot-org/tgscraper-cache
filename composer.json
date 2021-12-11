@@ -1,6 +1,6 @@
 {
   "name": "sysbot/tgscraper-cache",
-  "description": "Utility to extract scheme from Telegram Bot API webpage.",
+  "description": "Cache package containing all available webpage snapshots for Telegram bot API.",
   "license": "LGPL-3.0-or-later",
   "require": {
     "php": ">=8.0"
