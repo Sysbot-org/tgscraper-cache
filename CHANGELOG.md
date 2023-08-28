@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.3.0] - 2023-08-28
+### Added
+- Support for bot API 6.7 and 6.8.
+
 ## [1.2.1] - 2023-04-19
 ### Added
 - Support for bot API 6.5 and 6.6.
@@ -57,7 +61,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial release.
 - Support from bot API 1.0 to 5.3.
 
-[Unreleased]: https://github.com/Sysbot-org/tgscraper-cache/compare/1.2.1...HEAD
+[Unreleased]: https://github.com/Sysbot-org/tgscraper-cache/compare/1.3.0...HEAD
+[1.3.0]: https://github.com/Sysbot-org/tgscraper-cache/compare/1.2.1...1.3.0
 [1.2.1]: https://github.com/Sysbot-org/tgscraper-cache/compare/1.2.0...1.2.1
 [1.2.0]: https://github.com/Sysbot-org/tgscraper-cache/compare/1.1.5...1.2.0
 [1.1.5]: https://github.com/Sysbot-org/tgscraper-cache/compare/1.1.4...1.1.5
